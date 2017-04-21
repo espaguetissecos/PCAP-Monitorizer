@@ -1,0 +1,12 @@
+jesusbp@jesusbp-virtual-machine:~/Escritorio$ ./generadorPCAPx32 1301 03 t.pcap
+
+Generando traza (t.pcap) para la pareja 3 del grupo 1301. (id=130103)
+Epoch de inicio: 1448300787
+
+Información útil para el estudiante:
+La dirección MAC que deberá tener en cuenta es: 00:11:88:CC:33:9B
+La dirección IP (origen o destino) del flujo TCP que deberá tener en cuenta es: 82.200.86.41
+El puerto (origen o destino) del flujo UDP que deberá tener en cuenta es: 8024
+
+PCAP generado con éxito!
+
