@@ -5,7 +5,7 @@
  Debe tener capacidad de dejar de analizar paquetes de acuerdo a un filtro.
  
  Compila: gcc -Wall -o practica2 practica2.c -lpcap, make
- Autor: Jose Luis Garcia Dorado, Jorge E. Lopez de Vergara Mendez
+ Autor: Francisco Andreu Sanz
  2015 EPS-UAM 
 ***************************************************************************/
 
