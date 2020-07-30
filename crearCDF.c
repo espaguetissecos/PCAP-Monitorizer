@@ -7,7 +7,7 @@
  El alumno debe acabar su implementacion de crearCDF() y usar un main similar para validar su fucionamiento.
  
  Compila: gcc -Wall -o crearCDF crearCDF.c
- Autor: Jose Luis Garcia Dorado
+ Autor: Francisco Andreu Sanz
  2014 EPS-UAM 
 ***************************************************************************/
 
